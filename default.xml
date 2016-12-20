@@ -17,5 +17,6 @@
   <!-- project：path 下载后的本地路径，name 相对远程路径，完整路径为 remote.fetch + project.name -->
   <project remote="github" path="Bizs/DZPlayer-iOS" name="DZPlayer-iOS" />
   <project remote="github" path="Libs/FFmpeg" name="FFmpeg" />
+  <project remote="github" path="Libs/FFMpeg-iOS-Libs" name="FFMpeg-iOS-Libs" />
 
 </manifest>
